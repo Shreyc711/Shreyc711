@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/shreych7721154" target="blank"><img src="https://img.shields.io/twitter/follow/shreych7721154?logo=twitter&style=for-the-badge" alt="shreych7721154" /></a> </p>
 
-- 🔭 I’m currently cloning [magma website](https://thisismagma.com/)
 
 - 🌱 I’m currently learning **React,NextJs,SQL,Express Js**
 
@@ -16,11 +15,9 @@
 
 - 🤝 I’m looking for help with **backend**
 
-- 👨‍💻 All of my projects are available at [https://shrey-portfolio-swe.netlify.app/](https://shrey-portfolio-swe.netlify.app/)
+- 💬 Ask me about **Anything**
 
-- 💬 Ask me about **front-end**
-
-- 📫 How to reach me **shreyc45@gmail.com**
+- 📫 How to reach me **shreykumardineshbhai@gmail.com**
 
 - ⚡ Fun fact **I workout in the gym and vsCode**
 
